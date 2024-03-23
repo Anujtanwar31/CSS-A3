@@ -1,0 +1,136 @@
+.Main{
+    height: 100px;
+    width: 100px;
+    border: 5px solid red;
+    /* left: 40%; */
+    box-shadow: -20px -10px 10px yellow;
+    padding: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: blueviolet;
+    border-radius: 15px;
+    
+
+}
+
+.Mainbody{
+    border: 3px solid red;
+    height: 400px;
+    width: auto;
+    border-radius: 15px;
+}
+
+
+.A1{
+    height: 200px;
+    width: 1300px;
+
+}
+
+.Main1{
+    height: 150px;
+    width: 150px;
+    border: 2px solid red;
+    box-shadow: -40px -30px -10px yellow;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+    text-decoration: solid;
+    text-shadow: 2px salmon;
+    justify-self: end;
+    border-radius: 15px;
+
+}
+.Main2{
+    height: 150px;
+    width: 150px;
+    border: 2px solid red;
+    box-shadow: -10px -10px -10px yellow;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+    float: right;
+    /* display: flex;
+    flex-direction: row; */
+    border-radius: 15px;
+
+}
+.Main3{
+    height: 150px;
+    width: 150px;
+    border: 2px solid red;
+    box-shadow: -10px -10px -10px yellow;
+    padding: 5px;
+    text-align: center;
+    text-decoration: solid;
+    margin: 20px;
+    border-radius: 15px;
+
+}
+.Main4{
+    height: 150px;
+    width: 200px;
+    border: 2px solid red;
+    box-shadow: -10px -10px -10px yellow;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+    float: right;
+    border-radius: 15px;
+
+}
+
+
+
+
+.Container{
+    height: 600px;
+    width: 800px;
+    background-color: green;
+    margin: 10px auto;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
+.Row{
+    display: flex;
+    justify-content: center;
+    border: 3px solid red;
+}
+
+.SmallBox{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    margin: 10px;
+    /* display: inline-block; */
+
+}
+
+.BigBox{
+    width: 700px;
+    height: 150px;
+    background-color: yellow;
+    margin: 10px auto;
+}
+
+.Sticky{
+    height: 80px;
+    width: 300px;
+    position: fixed;
+    background-color: cyan;
+    border: 3px solid red;
+    border-radius: 10px;
+    margin-left: 400px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
+
+    
+
+}
